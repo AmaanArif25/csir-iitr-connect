@@ -61,15 +61,15 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
-        saffron: {
-          DEFAULT: "hsl(30 90% 50%)",
-          light: "hsl(30 90% 60%)",
-          dark: "hsl(25 85% 45%)",
+        forest: {
+          DEFAULT: "hsl(121 36% 27%)",
+          light: "hsl(121 36% 35%)",
+          dark: "hsl(121 30% 20%)",
         },
-        navy: {
-          DEFAULT: "hsl(213 56% 24%)",
-          light: "hsl(213 56% 32%)",
-          dark: "hsl(213 45% 18%)",
+        sage: {
+          DEFAULT: "hsl(83 40% 56%)",
+          light: "hsl(83 45% 62%)",
+          dark: "hsl(83 35% 48%)",
         },
       },
       borderRadius: {
