@@ -154,7 +154,7 @@ export default {
   					transform: 'translateX(0)'
   				}
   			},
-  			'carousel': {
+  			carousel: {
   				'0%': {
   					transform: 'translateX(0)'
   				},
@@ -162,7 +162,7 @@ export default {
   					transform: 'translateX(-100%)'
   				}
   			},
-  			'float': {
+  			float: {
   				'0%, 100%': {
   					transform: 'translateY(0)'
   				},
@@ -177,8 +177,8 @@ export default {
   			'fade-up': 'fade-up 0.5s ease-out forwards',
   			'fade-in': 'fade-in 0.4s ease-out forwards',
   			'slide-in-right': 'slide-in-right 0.4s ease-out forwards',
-  			'carousel': 'carousel 20s linear infinite',
-  			'float': 'float 6s ease-in-out infinite'
+  			carousel: 'carousel 20s linear infinite',
+  			float: 'float 6s ease-in-out infinite'
   		},
   		backgroundImage: {
   			'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
