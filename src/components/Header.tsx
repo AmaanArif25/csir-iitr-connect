@@ -51,7 +51,7 @@ const Header: React.FC<HeaderProps> = ({ isLoggedIn = false, onLogout }) => {
   return (
     <header className="sticky top-0 z-50 w-full glass border-b border-border/50">
       {/* Top decorative bar */}
-      <div className="h-1 w-full gradient-secondary" />
+      <div className="h-1 w-full gradient-saffron" />
       
       <div className="container mx-auto px-4">
         <div className="flex h-16 items-center justify-between">
